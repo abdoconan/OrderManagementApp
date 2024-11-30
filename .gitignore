@@ -1,0 +1,72 @@
+# Compiled files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# Build logs
+*.log
+
+# Git directory
+.git/
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Rider-specific files
+.idea/
+
+# ASP.NET Core environment files
+.env
+
+# Azure Pipelines
+*.AzurePipelines
+
+# Resharper files
+*.DotSettings.user
+
+# Other files
+.project
+*.suo
+*.user
+*.sln.docstates
+*.pdb
+
+# Dependencies
+*.dll
+*.exe
+*.nuget
+*.log
+*.cache
+
+# Publish output
+publish/
+out/
+
+# npm
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Others
+*.db
+*.bak
+*.swp
+
+# MacOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
